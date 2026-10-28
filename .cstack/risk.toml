@@ -1,0 +1,6 @@
+version = 1
+default = "low"
+test = "bash check.sh"
+ship = "pr"
+involvement = "process"
+protected = ["protected/**"]
