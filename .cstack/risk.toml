@@ -2,5 +2,5 @@ version = 1
 default = "low"
 test = "bash check.sh"
 ship = "pr"
-involvement = "process"
+involvement = "outcome"
 protected = ["protected/**"]
